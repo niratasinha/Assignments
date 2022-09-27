@@ -17,7 +17,7 @@ public class Mahindra implements Car1,Car2{
 	@Override
 	public int speed() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 100;
 	}
- int speed = 100;
+ 
 }
